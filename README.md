@@ -7,7 +7,7 @@
 Skills: **HTML5 / CSS3 / JavaScript / TypeScript / ReactJS / Git / Webpack / Vite**
 
 - 📫 How to reach me:
- [portfolio](https://chic-treacle-bb5d18.netlify.app/#contact)
+ [My Contact](https://chic-treacle-bb5d18.netlify.app/#contact)
 
 <!--
 **PaoNyyaka/PaoNyyaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
