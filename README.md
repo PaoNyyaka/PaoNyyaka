@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Andrey</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Frontend+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3FF778&random=false&width=435&lines=Frontend+Developer)](https://git.io/typing-svg)
 
 <!--
 **PaoNyyaka/PaoNyyaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
