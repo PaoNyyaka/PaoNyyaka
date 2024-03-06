@@ -4,7 +4,7 @@
 
 **I am 27 years old and have 3 years of development experience in JavaScript/TypeScript and React.**
 
-Skills: **HTML5 / CSS3 / JavaScript / TypeScript / ReactJS / Git / Webpack / Vite**
+**Skills:** ###HTML5 / CSS3 / JavaScript / TypeScript / ReactJS / Git / Webpack / Vite###
 
 - 📫 How to reach me:
  [My Contact](https://chic-treacle-bb5d18.netlify.app)
