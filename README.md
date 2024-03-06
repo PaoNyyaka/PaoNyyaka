@@ -7,8 +7,8 @@
 Skills: **HTML5 / CSS3 / JavaScript / TypeScript / ReactJS / Git / Webpack / Vite**
 
 - 📫 How to reach me:
+ [portfolio](https://chic-treacle-bb5d18.netlify.app/#contact)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40' style='filter: invert(100%);'>](https://chic-treacle-bb5d18.netlify.app/#contact)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discordapp.com/users/281710066439159810/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/PaoNyyka)
 <!--
 **PaoNyyaka/PaoNyyaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
