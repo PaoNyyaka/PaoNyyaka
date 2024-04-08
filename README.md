@@ -5,7 +5,7 @@
 ### **I have 3 years of development experience in JavaScript/TypeScript and React.**
 
 ### **Skills:** 
-### HTML5 / CSS3 / JavaScript / TypeScript / ReactJS / Git / Webpack / Vite
+### HTML5 / CSS3 / Git / JavaScript / TypeScript / React / Redux / Redux Toolkit / Webpack / Vite
 
 ### - 📫  How to reach me and more information:
  [My Contact](https://chic-treacle-bb5d18.netlify.app/)
