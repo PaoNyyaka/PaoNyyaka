@@ -8,7 +8,7 @@
 ### HTML5 / CSS3 / JavaScript / TypeScript / ReactJS / Git / Webpack / Vite
 
 ### - 📫  How to reach me and more information:
- [My Contact]((https://chic-treacle-bb5d18.netlify.app/))
+ [My Contact](https://chic-treacle-bb5d18.netlify.app/)
 
 <!--
 **PaoNyyaka/PaoNyyaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
