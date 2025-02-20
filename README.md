@@ -2,7 +2,7 @@
 ### I'm Frontend Developer from Russia
 ![I'm Frontend Developer from Russia](https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/337853518/original/eb1518e08b2ca7daf0a932c30c82867b50077c7a/frontend-web-developer-frontend-development-react-typescript-html-css-bootstrap.jpg)
 
-### **I have 3 years of development experience in JavaScript/TypeScript and React.**
+### **I have 2 years of development experience in JavaScript/TypeScript and React.**
 
 ### **Skills:** 
 ### HTML5 / CSS3 / Git / JavaScript / TypeScript / React / Redux / Redux Toolkit / Webpack / Vite
